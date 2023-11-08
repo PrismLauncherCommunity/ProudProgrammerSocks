@@ -1,0 +1,8 @@
+{
+  "texture_name": "pride/crew",
+  "name": "pride/crew",
+  "item_properties": {
+    "max_count": 1,
+    "rarity": "epic"
+  }
+}
